@@ -1,6 +1,8 @@
 # XSS-BWAPP-SOLUTION
 Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scripting (XSS) challenges, meticulously curated and solved by BugBot19 (Nihar Rathod). This repository serves as a one-stop resource for anyone looking to understand and solve XSS vulnerabilities in the bWAPP (Buggy Web Application) framework.
 
+# A3-Cross-Site-Scripting(XSS) #
+
 # XSS - Reflected (GET)(LOW)
 ``` Payload- <script>alert(document.cookie)</script>(can be inserted in both parameter Firstname and lastname) ```
 
