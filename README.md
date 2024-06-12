@@ -8,7 +8,7 @@ Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scri
 
 Some of the payloads are not yet found(NYF)
 
-You can refer to the ```DOCX.file ``` for more clarity 
+You can refer to the ```GitHub-Bwapp-XSS-solution.docx``` for more clarity 
 
 # A3-Cross-Site-Scripting(XSS) #
 
