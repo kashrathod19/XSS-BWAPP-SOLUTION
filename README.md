@@ -1,7 +1,7 @@
 # XSS-BWAPP-SOLUTION
 Welcome to the repository of comprehensive solutions for bWAPP's Cross-Site Scripting (XSS) challenges, meticulously curated and solved by BugBot19 (Nihar Rathod). This repository serves as a one-stop resource for anyone looking to understand and solve XSS vulnerabilities in the bWAPP (Buggy Web Application) framework.
 
-```Topics which are yet to be covered:```
+```Topics which are not yet covered:```
 ```1)XSS-Reflected(phpMyAdmin)```
 ```2)XSS-Stored(SQLiteManager)```
 ```3)XSS-Stored(User-Agent)```
