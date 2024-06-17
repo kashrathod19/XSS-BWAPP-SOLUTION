@@ -12,7 +12,7 @@ You can refer to the ```GitHub-Bwapp-XSS-solution.docx``` for more clarity
 
 # A3-Cross-Site-Scripting(XSS) 
 
-### XSS - Reflected (GET)(LOW)
+# XSS - Reflected (GET)(LOW)
 ``` Payload- <script>alert(document.cookie)</script>(can be inserted in both parameter Firstname and lastname) ```
 
 # XSS - Reflected (GET)(MEDIUM) 
